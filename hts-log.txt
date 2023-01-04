@@ -1,0 +1,69 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 04 Jan 2023 22:33:14 at https://clear2close.us/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://clear2close.us/ -O1 "C:\My Web Sites\real estate" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:33:56	Error: 	"Forbidden" (403) at link https://clear2close.us/xmlrpc.php (from https://clear2close.us/)
+22:33:57	Error: 	"Forbidden" (403) at link https://clear2close.us/xmlrpc.php?rsd (from https://clear2close.us/)
+22:35:43	Error: 	"Not Found" (404) at link https://clear2close.us/about-us (from https://clear2close.us/)
+22:35:43	Error: 	"Not Found" (404) at link https://clear2close.us/services (from https://clear2close.us/)
+22:35:43	Error: 	"Not Found" (404) at link https://clear2close.us/faq (from https://clear2close.us/)
+22:35:43	Warning: 	Link https://clear2close.us/continued-education/ not scanned (follow robots meta tag)
+22:35:48	Warning: 	Moved Permanently for https://clear2close.us/?p=50651
+22:35:48	Warning: 	File has moved from https://clear2close.us/?p=50651 to https://clear2close.us/title-escrow/
+22:35:48	Warning: 	Moved Permanently for https://clear2close.us/?p=50670
+22:35:48	Warning: 	File has moved from https://clear2close.us/?p=50670 to https://clear2close.us/survey-deletion-coverage/
+22:35:48	Warning: 	Moved Permanently for https://clear2close.us/?p=50676
+22:35:48	Warning: 	File has moved from https://clear2close.us/?p=50676 to https://clear2close.us/texas-endorsement-explained/
+22:35:49	Warning: 	Moved Permanently for https://clear2close.us/?p=50681
+22:35:49	Warning: 	File has moved from https://clear2close.us/?p=50681 to https://clear2close.us/appraisal/
+22:35:49	Warning: 	Moved Permanently for https://clear2close.us/?p=50692
+22:35:49	Warning: 	File has moved from https://clear2close.us/?p=50692 to https://clear2close.us/appraisal-facts/
+22:35:49	Warning: 	Moved Permanently for https://clear2close.us/?p=50697
+22:35:49	Warning: 	File has moved from https://clear2close.us/?p=50697 to https://clear2close.us/appraisal-fees/
+22:35:49	Warning: 	Moved Permanently for https://clear2close.us/?p=50702
+22:35:49	Warning: 	File has moved from https://clear2close.us/?p=50702 to https://clear2close.us/continuing-education/
+22:35:50	Warning: 	Moved Permanently for https://clear2close.us/?p=50713
+22:35:50	Warning: 	File has moved from https://clear2close.us/?p=50713 to https://clear2close.us/home-buyers-checklist/
+22:35:50	Warning: 	Moved Permanently for https://clear2close.us/?p=50717
+22:35:50	Warning: 	File has moved from https://clear2close.us/?p=50717 to https://clear2close.us/home-sellers-checklist/
+22:35:50	Warning: 	Moved Permanently for https://clear2close.us/?p=50725
+22:35:50	Warning: 	File has moved from https://clear2close.us/?p=50725 to https://clear2close.us/hoa-information-and-tips/
+22:35:51	Warning: 	Moved Permanently for https://clear2close.us/?p=51034
+22:35:51	Warning: 	File has moved from https://clear2close.us/?p=51034 to https://clear2close.us/blog/
+22:37:21	Error: 	"Not Found" (404) at link https://clear2close.us/net-sheet/ (from https://clear2close.us/payment/make-a-payment.php)
+22:37:21	Warning: 	Moved Permanently for https://clear2close.us/?p=50750
+22:37:21	Warning: 	File has moved from https://clear2close.us/?p=50750 to https://clear2close.us/meet-the-team/
+22:37:21	Warning: 	Moved Permanently for https://clear2close.us/?p=50730
+22:37:21	Warning: 	File has moved from https://clear2close.us/?p=50730 to https://clear2close.us/locations/
+22:37:22	Warning: 	Moved Permanently for https://clear2close.us/?p=50774
+22:37:22	Warning: 	File has moved from https://clear2close.us/?p=50774 to https://clear2close.us/contact-us/
+22:37:23	Warning: 	Moved Permanently for https://clear2close.us/?p=50755
+22:37:23	Warning: 	File has moved from https://clear2close.us/?p=50755 to https://clear2close.us/privacy-policy/
+22:37:23	Warning: 	Moved Permanently for https://clear2close.us/?p=51368
+22:37:23	Warning: 	File has moved from https://clear2close.us/?p=51368 to https://clear2close.us/blog/real-estate-title-and-escrow-services/
+22:37:36	Warning: 	Moved Permanently for https://clear2close.us/?p=51328
+22:37:36	Warning: 	File has moved from https://clear2close.us/?p=51328 to https://clear2close.us/blog/six-critical-things-you-need-to-know-when-buying-a-new-home/
+22:37:36	Warning: 	Moved Permanently for https://clear2close.us/?p=51242
+22:37:36	Warning: 	File has moved from https://clear2close.us/?p=51242 to https://clear2close.us/blog/learn-how-to-increase-your-home-appraisal-value-on-the-market/
+22:37:36	Warning: 	Moved Permanently for https://clear2close.us/?p=51127
+22:37:36	Warning: 	File has moved from https://clear2close.us/?p=51127 to https://clear2close.us/blog/how-you-can-improve-your-appraisal/
+22:37:37	Warning: 	Moved Permanently for https://clear2close.us/?p=51012
+22:37:37	Warning: 	File has moved from https://clear2close.us/?p=51012 to https://clear2close.us/blog/how-to-prepare-for-your-property-appraisal/
+22:37:37	Warning: 	Moved Permanently for https://clear2close.us/?p=51021
+22:37:37	Warning: 	File has moved from https://clear2close.us/?p=51021 to https://clear2close.us/blog/how-to-get-your-house-appraised/
+22:37:37	Warning: 	Moved Permanently for https://clear2close.us/?p=51023
+22:37:37	Warning: 	File has moved from https://clear2close.us/?p=51023 to https://clear2close.us/blog/how-to-avoid-the-most-common-home-buying-mistakes/
+22:37:38	Warning: 	Moved Permanently for https://clear2close.us/?p=51025
+22:37:38	Warning: 	File has moved from https://clear2close.us/?p=51025 to https://clear2close.us/blog/dont-lose-your-home-with-a-bad-appraisal/
+22:37:38	Warning: 	Moved Permanently for https://clear2close.us/?p=51028
+22:37:38	Warning: 	File has moved from https://clear2close.us/?p=51028 to https://clear2close.us/blog/closing-on-your-home-the-ultimate-guide/
+22:37:38	Warning: 	Moved Permanently for https://clear2close.us/?p=51029
+22:37:38	Warning: 	File has moved from https://clear2close.us/?p=51029 to https://clear2close.us/blog/avoid-the-pitfalls-of-escrow-and-title-insurance/
+22:37:38	Error: 	"Not Found" (404) at link https://clear2close.us/payment/assets/assets/img/header-standard/image1.jpg (from https://clear2close.us/payment/assets/bootstrap/css/bootstrap.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 25 seconds : 376 links scanned, 342 files written (72668377 bytes overall) [47234582 bytes received at 178243 bytes/sec], 31738430 bytes transferred using HTTP compression in 279 files, ratio 15%, 11.0 requests per connection
+(7 errors, 51 warnings, 0 messages)
